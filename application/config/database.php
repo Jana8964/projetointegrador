@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'profaalbalopes.info',
+	'username' => 'profaa16_cardapi',
+	'password' => '!}3#i{%0~K]g',
+	'database' => 'profaa16_cardapioifrn',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
